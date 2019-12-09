@@ -1,4 +1,4 @@
-# qu1ckr00t
+# CVE-2019-2215 qu1ckr00t
 A PoC application demonstrating the power of an Android kernel arbitrary R/W (CVE-2019-2215). Writeup: https://hernan.de/blog/2019/10/15/tailoring-cve-2019-2215-to-achieve-root/
 
 **Qu1ckR00t is a PROOF OF CONCEPT. It should NOT be used on your personal device with valuable userdata. It has only been tested on a Pixel 2. Running it on any other device / kernel will likely lead to a crash or even data loss. DO NOT install extra Magisk environment files or upgrade Magisk if prompted as this will patch boot, breaking DM-Verity on next boot likely leading to data-loss when you need to reflash.**
